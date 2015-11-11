@@ -1,3 +1,3 @@
-# personal_todo_app
-A simple application for personal ToDo List
-kfjyfukfkf
+#Taskify:
+
+Just made the local github setup Hoooray.
